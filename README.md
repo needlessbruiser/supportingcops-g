@@ -1,6 +1,6 @@
-# Cream Chargers Warehouse
+# Supporting Cops
 
-This app provides a webview of [Cream Chargers Warehouse](https://creamchargerswarehouse.co.uk/).
+This app provides a webview of [Supporting Cops](https://supportingcops.org/).
 
 ## Installation
 
@@ -17,13 +17,13 @@ Just open the app to view the website content.
 
 ## Support
 
-For support, please visit [Cream Chargers Warehouse](https://creamchargerswarehouse.co.uk/).
+For support, please visit [Supporting Cops](https://supportingcops.org/).
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## More Information
-- Webview URL: [Cream Chargers Warehouse](https://creamchargerswarehouse.co.uk/).
+- Webview URL: [Supporting Cops](https://supportingcops.org/)).
 
-© 2024 Cream Chargers Warehouse
+© 2024 Supporting Cops
